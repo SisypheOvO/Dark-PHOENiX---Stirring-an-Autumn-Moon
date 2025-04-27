@@ -3,7 +3,7 @@ osu file format v14
 [General]
 AudioFilename: audio.mp3
 AudioLeadIn: 0
-PreviewTime: -1
+PreviewTime: 89826
 Countdown: 0
 SampleSet: Soft
 StackLeniency: 0.5
@@ -25,8 +25,8 @@ Artist:Dark PHOENiX
 ArtistUnicode:Dark PHOENiX
 Creator:Robinia
 Version:a
-Source:
-Tags:
+Source:東方永夜抄　～ Imperishable Night
+Tags:東方project nightbug video_game zun  shanghai_alice Touhou Dark_PHOENIX Arrange Instrumental Metal Rock Heavy Dramatic Guitar パチュリー・ノーレッジ Patchouli Knowledge mooned insect wriggle
 BeatmapID:0
 BeatmapSetID:-1
 
