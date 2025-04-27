@@ -20,3 +20,5 @@
 ## 随记
 
 Sisy：预览点是不是选 01:29:826 ？ 还没想好，我只是觉得这个 Solo 很帅
+Sisy: `Markdown All in One`这个 VSCode 插件总是给我在自动保存的时候在 Readme 的目录里生成新东西，
+    把 settings.json 里的`markdown.extension.toc.updateOnSave`改成false就好了
