@@ -1,8 +1,9 @@
+<!--markdownlint-disable MD033-->
 # Stirring an Autumn Moon | 蠢々秋月
 
 ## - Dark PHOENiX
 
-<img src="./55041769_p0.jpg" />
+<img src="./55041769_p0.jpg" alt="蠢々秋月" />
 
 ![游戏模式](https://img.shields.io/badge/Mode-osu!-blueviolet) ![状态](https://img.shields.io/badge/状态-WIP-brightgreen)
 
@@ -45,9 +46,17 @@
 
 ## Table of Contents
 
-- [Beatmap Information](#beatmap-information)
-- [Installation Guide](#installation-guide)
-- [Credits](#credits)
+- [Stirring an Autumn Moon | 蠢々秋月](#stirring-an-autumn-moon--蠢々秋月)
+  - [- Dark PHOENiX](#--dark-phoenix)
+  - [目录](#目录)
+  - [谱面信息](#谱面信息)
+  - [安装指南](#安装指南)
+  - [制作名单](#制作名单)
+  - [English Version](#english-version)
+  - [Table of Contents](#table-of-contents)
+  - [Beatmap Information](#beatmap-information)
+  - [Installation Guide](#installation-guide)
+  - [Credits](#credits)
 
 ## Beatmap Information
 
