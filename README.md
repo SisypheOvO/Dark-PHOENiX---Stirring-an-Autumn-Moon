@@ -1,4 +1,5 @@
 <!--markdownlint-disable MD033-->
+
 # Stirring an Autumn Moon | 蠢々秋月
 
 ## - Dark PHOENiX
@@ -28,7 +29,7 @@
 ## 安装指南
 
 1. 将仓库克隆到本地，注意将克隆的位置选为你 osu! 的 Songs 文件夹内
-2. 打开Osu! 客户端，进入“谱面选择”界面找到本谱面
+2. 打开 Osu! 客户端，进入“谱面选择”界面找到本谱面
 3. Edit or Play!
 
 ## 制作名单
