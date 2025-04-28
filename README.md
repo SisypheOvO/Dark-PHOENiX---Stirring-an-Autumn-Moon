@@ -97,7 +97,8 @@
 ## Credits
 
 - **Mapper**: [SisypheOvO](https://osu.ppy.sh/users/35628968), [Robinia](https://osu.ppy.sh/users/16081750)
-- **Background**: [Robinia](https://osu.ppy.sh/users/16081750)
+- **Background**: [あすとら](https://www.pixiv.net/artworks/55041769)
 - **Sound Effects**: [Null]
 - **Storyboard**: [Null]
-- **Special Thanks**: [Null]
+- **Special Thanks**:
+  - [qclrcjsw](https://osu.ppy.sh/users/36318394) Also known as [清程 lrcjsw](https://github.com/qclrcjsw) for testing the beatmap in osu! and providing feedback.
