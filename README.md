@@ -14,6 +14,7 @@
 ## 目录
 
 - [谱面信息](#谱面信息)
+- [项目结构](#项目结构)
 - [安装指南](#安装指南)
 - [制作名单](#制作名单)
 
@@ -25,6 +26,19 @@
 - **BPM**: [194]
 - **时长**: [03:08:598]
 - **模式**: [Standard]
+
+## 项目结构
+
+```bash
+├── Dark PHOENiX - Stirring an Autumn Moon (SisypheOvO) [back 1].osu # 当前难度
+├── Dark PHOENiX - Stirring an Autumn Moon (Robinia) [a].osu # 已弃用的草稿难度
+├── README.md # 本文档
+├── TODO.md # 待办事项
+├── BLOG.md # 笔记
+├── 55041769_p0.jpg # 背景图
+├── audio.mp3 # 音频文件
+├── .gitattributes # Git 属性文件
+```
 
 ## 安装指南
 
@@ -48,6 +62,7 @@
 ## Table of Contents
 
 - [Beatmap Information](#beatmap-information)
+- [Project Structure](#project-structure)
 - [Installation Guide](#installation-guide)
 - [Credits](#credits)
 
@@ -59,6 +74,19 @@
 - **BPM**: [194]
 - **Length**: [03:08:598]
 - **Mode**: [Standard]
+
+## Project Structure
+
+```bash
+├── Dark PHOENiX - Stirring an Autumn Moon (SisypheOvO) [back 1].osu # Current difficulty
+├── Dark PHOENiX - Stirring an Autumn Moon (Robinia) [a].osu # Abandoned draft difficulty
+├── README.md # This document
+├── TODO.md # To-do list
+├── BLOG.md # Notes
+├── 55041769_p0.jpg # Background image
+├── audio.mp3 # Audio file
+├── .gitattributes # Git attributes file
+```
 
 ## Installation Guide
 
