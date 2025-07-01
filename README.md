@@ -52,6 +52,8 @@
 - **bg**: [あすとら](https://www.pixiv.net/artworks/55041769)
 - **音效**: [Null]
 - **故事板**: [Null]
+- **特别鸣谢**:
+  - [qclrcjsw](https://osu.ppy.sh/users/36318394) 也就是 [清程 lrcjsw](https://github.com/qclrcjsw) 为本谱面提供的测试和反馈。
 
 ---
 
